@@ -1,0 +1,4 @@
+input <- readLines('stdin')
+#your code goes here
+x= as.integer(input[1]);
+print(x*3.785)
